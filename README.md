@@ -1,2 +1,2 @@
 # fitness-app-form
-I Developed fitness app form where u can register yourself by using html and css.
+I Developed form so that you can register yourself for fitness app using html and css.
